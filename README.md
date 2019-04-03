@@ -1,6 +1,6 @@
 # Google Flutter Mobile Development Quick Start Guide
 
-<a href="https://prod.packtpub.com/in/application-development/google-flutter-mobile-development-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789344967"><img  src=https://prod.packtpub.com/media/catalog/product/cache/a22c7d190d97ca25f5f1089471ab8502/b/1/b11253.png" alt="Google Flutter Mobile Development Quick Start Guide" height="256px" align="right"></a>
+<a href="https://prod.packtpub.com/in/application-development/google-flutter-mobile-development-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789344967"><img  src="https://prod.packtpub.com/media/catalog/product/cache/a22c7d190d97ca25f5f1089471ab8502/b/1/b11253.png" alt="Google Flutter Mobile Development Quick Start Guide" height="256px" align="right"></a>
 
 This is the code repository for [Google Flutter Mobile Development Quick Start Guide](https://prod.packtpub.com/in/application-development/google-flutter-mobile-development-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789344967), published by Packt.
 
