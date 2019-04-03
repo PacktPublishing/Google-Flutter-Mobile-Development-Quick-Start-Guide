@@ -1,20 +1,20 @@
-# Book Name
+# Google Flutter Mobile Development Quick Start Guide
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://prod.packtpub.com/in/application-development/google-flutter-mobile-development-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789344967"><img src=https://prod.packtpub.com/media/catalog/product/cache/a22c7d190d97ca25f5f1089471ab8502/b/1/b11253.png" alt="Google Flutter Mobile Development Quick Start Guide" height="256px" align="right"></a>
 
-This is the code repository for [Book Name](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Google Flutter Mobile Development Quick Start Guide](https://prod.packtpub.com/in/application-development/google-flutter-mobile-development-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789344967), published by Packt.
 
-**Subtitle from EPIC**
+**Get up and running with iOS and Android mobile app development	**
 
 ## What is this book about?
-First Paragraph from the Long Description
+Flutter is a cross-platform mobile application development framework. It uses the Dart programming language, which was created by Google, and aims to make development easier, faster, and more efficient. This book is going to be your guide, from introducing Flutter to successfully developing a cross platform application.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
-* Learn how to manage users, groups, and permissions
-* Encrypt and decrypt disks with Linux Unified Key Setup /Luks
-* Setup SSH for remote access, and connect it to other nodes
-* Understand how to add, remove, and search for packages
-* Use NFS and Samba to share directories with other users
+## This book covers the following exciting features:
+* Take a tour through the widget catalog
+* Route and navigate through the widgets
+* Use listview and scroll widgets
+* Gain knowledge on networking with Flutter and Dart
+* Build and publish plugins to pub.dart.com
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/10DigitISBN) today!
 
@@ -27,14 +27,14 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-if (test expression)
-{
-  Statement upon condition is true
+void main() {
+debugPaintSizeEnabled=true;
+runApp(MyApp());
 }
 ```
 
 **Following is what you need for this book:**
-Copy and paste the Audience section from the EPIC.
+This book is for developers who are willing to learn flutter and develop cross-platform applications.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
 
@@ -42,43 +42,21 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
-| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 10        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 11        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 12        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 13        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 2-7      | Git,firebase, Node.js, Flutter      | Windows, Mac OS X, and Linux (Any) |
 
-
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
-
-## Code in Action
-
-Click on the following link to see the Code in Action:
-
-[Placeholder link](www.youtube.com/URL)
 
 ### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* React and React Native [[Packt]](https://prod.packtpub.com/in//web-development/react-and-react-native?utm_source=github&utm_medium=repository&utm_campaign=9781786465658) [[Amazon]](https://www.amazon.com/dp/1786465655)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* React Native Cookbook [[Packt]](https://prod.packtpub.com/in/application-development/react-native-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786462558) [[Amazon]](https://www.amazon.com/dp/1786462559)
 
-## Get to Know the Author(s)
-**Author Name**
-Bio
+## Get to Know the Authors
+**Prajyot Mainkar**
+is the director of Androcid, a mobile app development company based in India. The company builds UI/UX and mobile apps for clients. He has been recognized as an Intel Innovator. Prajyot has been an avid programmer and speaker at over 300 mobile developer conferences across the globe. including Android Developer Days in Turkey, Droidcon Greece, Droidcon India, and many more. He is the chairman of the IT & Young entrepreneurship forum at the Goa Chamber of Commerce and Industry. He has been awarded the title of Young Entrepreneur of the Year by Business Goa and the GEMS Trailblazer award for his contributions to the field of information technology. He is on
+board as an adviser to many incubation centers across India.
 
-**Author Name**
-Bio
-
+**Salvatore Giordano**
+is a 23 year-old software engineer from Italy. He currently works as a mobile and backend developer in Turin, where he attained a bachelor's degree in computer engineering. He is member of the Google Developer Group of Turin, where he often gives talks regarding his experiences. He is really passionate about cutting-edge technologies, always staying up to date with the latest trends. He has written many articles on Flutter and contributed to the development of a number of plugins and libraries for the framework.
 
 ## Other books by the authors
 * [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
