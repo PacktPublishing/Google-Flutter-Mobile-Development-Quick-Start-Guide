@@ -4,7 +4,7 @@
 
 This is the code repository for [Google Flutter Mobile Development Quick Start Guide](https://prod.packtpub.com/in/application-development/google-flutter-mobile-development-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789344967), published by Packt.
 
-** Get up and running with iOS and Android mobile app development **
+**Get up and running with iOS and Android mobile app development**
 
 ## What is this book about?
 Flutter is a cross-platform mobile application development framework. It uses the Dart programming language, which was created by Google, and aims to make development easier, faster, and more efficient. This book is going to be your guide, from introducing Flutter to successfully developing a cross platform application.
