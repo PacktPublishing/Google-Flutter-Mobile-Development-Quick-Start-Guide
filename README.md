@@ -4,7 +4,7 @@
 
 This is the code repository for [Google Flutter Mobile Development Quick Start Guide](https://prod.packtpub.com/in/application-development/google-flutter-mobile-development-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789344967), published by Packt.
 
-**Get up and running with iOS and Android mobile app development	**
+*Get up and running with iOS and Android mobile app development*
 
 ## What is this book about?
 Flutter is a cross-platform mobile application development framework. It uses the Dart programming language, which was created by Google, and aims to make development easier, faster, and more efficient. This book is going to be your guide, from introducing Flutter to successfully developing a cross platform application.
@@ -58,9 +58,6 @@ board as an adviser to many incubation centers across India.
 **Salvatore Giordano**
 is a 23 year-old software engineer from Italy. He currently works as a mobile and backend developer in Turin, where he attained a bachelor's degree in computer engineering. He is member of the Google Developer Group of Turin, where he often gives talks regarding his experiences. He is really passionate about cutting-edge technologies, always staying up to date with the latest trends. He has written many articles on Flutter and contributed to the development of a number of plugins and libraries for the framework.
 
-## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
